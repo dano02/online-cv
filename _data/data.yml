@@ -213,5 +213,5 @@ skills:
       - name: JIRA/Confluence
         level: 90%
 
-footer: >
-   Designed with <i class="fas fa-heart"></i> by <a href="http://danlistiak.com" target="_blank" rel="nofollow">Daniel Listiak</a>
+#footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://danlistiak.com" target="_blank" rel="nofollow">Daniel Listiak</a>
