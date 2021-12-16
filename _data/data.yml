@@ -177,6 +177,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Exploratory Testing
+        level: 90%
+
+      - name: Regression Testing
+        level: 90%
+
+      - name: Mobile/Web Testing
+        level: 80%
+
+      - name: RestFul API Testing
+        level: 60%
+      
+      - name: Deployment
+        level: 50%
+
+      - name: Test Plan, Cases & Processes
+        level: 90%
+
+      - name: Test Automation
+        level: 60%
+        
       - name: JSON/XML/SWAGGER
         level: 90%
 
