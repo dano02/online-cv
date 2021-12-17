@@ -69,8 +69,8 @@ experiences:
         - write / maintenance / improvements / refactor of functional automated tests
         - mentoring newcomers – automated testers
         - I am responsible person for planning, preparing and running weekend run tests cca: 4000+
-          automated tests, environments, creation of wr test result pages for analysis etc
-        - Executed and control the deployment process with Jenkins jobs – migrations, sanitization tests etc.
+          automated tests, test environments, creation of wr test result pages for analysis etc
+        - Executed and control the jenkins jobs&build processes – migrations, jobs configuration, sanitization tests etc.
     - role: Freelance Software Test Engineer
       time: July 2020 - Present
       company: Self employed / Contractor
@@ -183,9 +183,6 @@ skills:
 
       - name: RestFul API Testing
         level: 60%
-      
-      - name: Deployment
-        level: 50%
 
       - name: Test Plan, Cases & Processes
         level: 90%
