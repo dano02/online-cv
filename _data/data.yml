@@ -217,7 +217,7 @@ skills:
       - name: SoapUI/Postman
         level: 70%
       
-      - name: Bash
+      - name: Apache Jmeter
         level: 50%
         
       - name: HP-QualityCenter ALM
